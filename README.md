@@ -1,1 +1,1 @@
-# BRACU_CSE330-Numerical-Method-Lab
+These are the Lab Assignment files of Brac University's Computer Science & Engineering departmental core course, CSE330 known as Numerical Methods. These Lab assignments are given during FAll'2021 Semester for the course work. 
